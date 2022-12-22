@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-marvel-comics/static/css/main.24b4fe75.css",
+    "main.js": "/react-marvel-comics/static/js/main.8acb9999.js",
+    "static/js/112.56ecaad6.chunk.js": "/react-marvel-comics/static/js/112.56ecaad6.chunk.js",
+    "static/css/288.13c660da.chunk.css": "/react-marvel-comics/static/css/288.13c660da.chunk.css",
+    "static/js/288.5b692fa7.chunk.js": "/react-marvel-comics/static/js/288.5b692fa7.chunk.js",
+    "static/css/434.b8c22000.chunk.css": "/react-marvel-comics/static/css/434.b8c22000.chunk.css",
+    "static/js/434.69668774.chunk.js": "/react-marvel-comics/static/js/434.69668774.chunk.js",
+    "static/css/74.da317e04.chunk.css": "/react-marvel-comics/static/css/74.da317e04.chunk.css",
+    "static/js/74.a2367197.chunk.js": "/react-marvel-comics/static/js/74.a2367197.chunk.js",
+    "static/js/226.67feda9f.chunk.js": "/react-marvel-comics/static/js/226.67feda9f.chunk.js",
+    "static/media/vision.png": "/react-marvel-comics/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/react-marvel-comics/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/Avengers.png": "/react-marvel-comics/static/media/Avengers.4065c8f9c94e3d8b039a.png",
+    "static/media/Avengers_logo.png": "/react-marvel-comics/static/media/Avengers_logo.9eaf219344d83362e830.png",
+    "index.html": "/react-marvel-comics/index.html",
+    "main.24b4fe75.css.map": "/react-marvel-comics/static/css/main.24b4fe75.css.map",
+    "main.8acb9999.js.map": "/react-marvel-comics/static/js/main.8acb9999.js.map",
+    "112.56ecaad6.chunk.js.map": "/react-marvel-comics/static/js/112.56ecaad6.chunk.js.map",
+    "288.13c660da.chunk.css.map": "/react-marvel-comics/static/css/288.13c660da.chunk.css.map",
+    "288.5b692fa7.chunk.js.map": "/react-marvel-comics/static/js/288.5b692fa7.chunk.js.map",
+    "434.b8c22000.chunk.css.map": "/react-marvel-comics/static/css/434.b8c22000.chunk.css.map",
+    "434.69668774.chunk.js.map": "/react-marvel-comics/static/js/434.69668774.chunk.js.map",
+    "74.da317e04.chunk.css.map": "/react-marvel-comics/static/css/74.da317e04.chunk.css.map",
+    "74.a2367197.chunk.js.map": "/react-marvel-comics/static/js/74.a2367197.chunk.js.map",
+    "226.67feda9f.chunk.js.map": "/react-marvel-comics/static/js/226.67feda9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b4fe75.css",
+    "static/js/main.8acb9999.js"
+  ]
+}
