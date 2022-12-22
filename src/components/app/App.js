@@ -16,7 +16,7 @@ const App = () => {
                 <main>
                    <Suspense>
                        <Routes>
-                           <Route path='/react-marvel-comics' element={<MainPage />} />
+                           <Route path='/react-marvel-comics/' element={<MainPage />} />
                            <Route path='/react-marvel-comics/comics' element={<ComicsPage />} />
                            <Route path='/react-marvel-comics/comics/:id' element={<SingleComicPage />} />
                            <Route path='*' element={<PageNotFound />} />

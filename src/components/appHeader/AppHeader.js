@@ -16,7 +16,7 @@ const AppHeader = () => {
                         <NavLink
                             end
                             style={({isActive}) => ({color: isActive ? 'red' : 'black'})}
-                            to="/react-marvel-comics">
+                            to="/react-marvel-comics/">
                             Characters</NavLink>
                     </li>
                     /
